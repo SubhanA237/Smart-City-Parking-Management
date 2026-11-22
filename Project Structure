@@ -1,8 +1,8 @@
-Smart-City-Parking-Management/
+Smart-City-Parking/
 │
-├── README.md
 ├── main.cpp
 ├── garage.h
 ├── vehicle.h
+├── ticket.h
 ├── payment.h
 └── admin.h

@@ -4,6 +4,5 @@ Smart-City-Parking-Management/
 ├── main.cpp
 ├── garage.h
 ├── vehicle.h
-├── ticket.h
 ├── payment.h
 └── admin.h
